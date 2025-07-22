@@ -1,0 +1,51 @@
+TransactionId,ItemDescription,NumberOfItemsPurchased,CostPerItem,Label,TotalCost,Date
+T001,Electricity Bill,1,150,Need,150,2025-06-01
+T002,Groceries,10,5,Need,50,2025-06-03
+T003,Starbucks Coffee,2,25,Want,50,2025-06-04
+T004,Netflix Subscription,1,50,Want,50,2025-06-06
+T005,Water Bottle,3,3,Need,9,2025-06-06
+T006,Petrol Fuel,1,100,Need,100,2025-06-06
+T007,Movie Ticket,2,30,Want,60,2025-06-06
+T008,Rent,1,1000,Need,1000,2025-06-07
+T009,Medicine,2,20,Need,40,2025-06-09
+T010,Burger King Meal,2,15,Want,30,2025-06-09
+T011,Internet Bill,1,120,Need,120,2025-06-10
+T012,Gym Membership,1,200,Want,200,2025-06-12
+T013,Books,3,40,Need,120,2025-06-13
+T014,Phone Recharge,1,50,Want,50,2025-06-14
+T015,Ice Cream,2,10,Want,20,2025-06-14
+T016,Hospital Bill,1,500,Need,500,2025-06-15
+T017,Laundry Service,1,60,Want,60,2025-06-18
+T018,Amazon Purchase,1,300,Want,300,2025-06-18
+T019,Doctor Visit,1,250,Need,250,2025-06-20
+T020,Mobile Accessories,2,150,Want,300,2025-06-21
+T021,School Fees,1,1200,Need,1200,2025-06-22
+T022,Uber Ride,1,40,Want,40,2025-06-24
+T023,Dominos Pizza,1,45,Want,45,2025-06-25
+T024,Flight Booking,1,800,Want,800,2025-06-25
+T025,Restaurant Dinner,2,180,Want,360,2025-06-26
+T026,Insurance Premium,1,700,Need,700,2025-06-27
+T027,Clothing Shopping,2,250,Want,500,2025-06-27
+T028,Fuel Refill,1,100,Need,100,2025-06-28
+T029,Public Transport,1,20,Need,20,2025-06-28
+T030,Parking Fee,1,10,Want,10,2025-06-28
+T031,Concert Ticket,1,350,Want,350,2025-06-30
+T032,Emergency Room Visit,1,1200,Want,1200,2025-07-01
+T033,Google Drive Subscription,1,100,Want,100,2025-07-04
+T034,Haircut,1,70,Want,70,2025-07-04
+T035,Toothpaste,2,8,Need,16,2025-07-05
+T036,Fast Food Combo,1,30,Want,30,2025-07-05
+T037,Bus Pass,1,10,Want,10,2025-07-05
+T038,Health Supplements,2,90,Need,180,2025-07-05
+T039,Water Filter,1,130,Need,130,2025-07-06
+T040,Pet Food,2,80,Want,160,2025-07-07
+T041,Online Course,1,400,Want,400,2025-07-07
+T042,Snacks,2,15,Want,30,2025-07-08
+T043,Gaming Console,1,2000,Want,2000,2025-07-09
+T044,Spotify Premium,1,35,Want,35,2025-07-11
+T045,Childcare Service,1,1100,Need,1100,2025-07-11
+T046,Grocery Delivery,3,60,Need,180,2025-07-12
+T047,Tablet Purchase,1,1500,Want,1500,2025-07-13
+T048,Car Service,1,1000,Need,1000,2025-07-14
+T049,Yoga Class,1,250,Want,250,2025-07-15
+T050,Streaming Bundle,1,300,Want,300,2025-07-15
